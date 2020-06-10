@@ -1,0 +1,21 @@
+.body{
+    background-color: pink;
+
+}
+nav a:hover{
+    
+    background-color: rgba(50, 115, 220, 0.3);
+    color: #DAF7A6;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+
+
+    color: #581845 ;
+    
+    padding-top: 1%;
+}
+#mycheck{
+    font-family: cursive;
+}
